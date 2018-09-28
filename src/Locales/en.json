@@ -1,0 +1,15 @@
+{
+  "common": {
+    "yes": "Yes",
+    "no": "No"
+  },
+  "login": {
+    "username": "Username",
+    "password": "Password"
+  },
+  "category": {
+    "name": "Name",
+    "search": "Search"
+  }
+
+}
